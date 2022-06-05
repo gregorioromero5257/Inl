@@ -48,11 +48,11 @@ La aplicación de esta Herramienta generará dos (2) tipos de reportes (Reporte 
 
 ![Image text](https://github.com/gregorioromero5257/Inl/blob/main/public/inl.png)
 
-![Image text](https://github.com/gregorioromero5257/Inl/blob/main/public/in2.png)
+![Image text](https://github.com/gregorioromero5257/Inl/blob/main/public/inl2.png)
 
 
-![Image text](https://github.com/gregorioromero5257/Inl/blob/main/public/in3.png)
+![Image text](https://github.com/gregorioromero5257/Inl/blob/main/public/inl3.png)
 
 
-![Image text](https://github.com/gregorioromero5257/Inl/blob/main/public/in4.png)
+![Image text](https://github.com/gregorioromero5257/Inl/blob/main/public/inl4.png)
 
