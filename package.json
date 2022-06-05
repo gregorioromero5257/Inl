@@ -1,0 +1,61 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "npm run development",
+    "development": "cross-env NODE_ENV=development node_modules/webpack/bin/webpack.js --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",
+    "watch": "npm run development -- --watch",
+    "watch-poll": "npm run watch -- --watch-poll",
+    "hot": "cross-env NODE_ENV=development node_modules/webpack-dev-server/bin/webpack-dev-server.js --inline --hot --config=node_modules/laravel-mix/setup/webpack.config.js",
+    "prod": "npm run production",
+    "production": "cross-env NODE_ENV=production node_modules/webpack/bin/webpack.js --no-progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js"
+  },
+  "devDependencies": {
+    "axios": "^0.18.0",
+    "babel-core": "^6.26.3",
+    "bootstrap": "^4.0.0",
+    "cross-env": "^5.1",
+    "jquery": "^3.2",
+    "laravel-mix": "^2.0",
+    "lodash": "^4.17.5",
+    "popper.js": "^1.12",
+    "vue": "^2.5.7"
+  },
+  "dependencies": {
+    "@babel/core": "^7.12.3",
+    "@babel/plugin-transform-runtime": "^7.12.1",
+    "@fortawesome/fontawesome-free": "^5.2.0",
+    "admin-lte": "^3.0.0-alpha.2",
+    "babel": "^6.23.0",
+    "docx": "^5.0.0-rc4",
+    "easy-circular-progress": "^1.0.4",
+    "file-saver": "^2.0.2",
+    "fs": "0.0.1-security",
+    "html2canvas": "^1.0.0-rc.3",
+    "imagemin": "^7.0.0",
+    "jspdf": "^1.5.3",
+    "jspdf-autotable": "^3.1.1",
+    "laravel-vue-pagination": "^2.1.0",
+    "moment": "^2.22.2",
+    "node-sass": "^4.12.0",
+    "numeral": "^2.0.6",
+    "sweetalert2": "^7.26.12",
+    "tempusdominus-core": "^5.0.3",
+    "vform": "^1.0.0",
+    "vue-html2canvas": "0.0.4",
+    "vue-i18n": "^8.9.0",
+    "vue-loading-overlay": "^5.0.3",
+    "vue-multiselect": "^2.1.4",
+    "vue-progress": "^0.2.1",
+    "vue-progressbar": "^0.7.5",
+    "vue-radial-progress": "^0.3.2",
+    "vue-router": "^3.0.1",
+    "vue-wysiwyg": "^1.7.2",
+    "vue2-circle-progress": "^1.2.3",
+    "vue2-dropzone": "^3.5.8",
+    "vue2-editor": "^2.6.6",
+    "vuex": "^3.1.0"
+  },
+  "browser": {
+    "fs": false
+  }
+}

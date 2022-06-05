@@ -1,0 +1,70 @@
+// Body
+//test
+$body-bg: #f4f7fc;
+
+// Typography
+$font-family-sans-serif: "Poppins", sans-serif;
+$font-family-sans-serif-open-sans: "Open Sans Condensed", sans-serif;
+$font-size-base: 0.9rem;
+$line-height-base: 1.6;
+
+// Colors
+$green: #8cc63f;
+$dark-green: #587539;
+$orange: #f7931e;
+$red: #c1272d;
+$blue: #091f2f;
+$indigo: #6574cd;
+$purple: #9561e2;
+$pink: #f66D9b;
+$yellow: #ffed4a;
+$teal: #4dc0b5;
+$cyan: #6cb2eb;
+$primary: #13385d;
+$success: #587539;
+$warning: #f7931e;
+$danger: #c1272d;
+
+.blue{
+    color: $blue;
+}
+
+.indigo{
+    color: $indigo;
+}
+
+.purple{
+    color: $purple;
+}
+
+.pink{
+    color: $pink;
+}
+
+.red
+{
+    color: $red;
+}
+.orange{
+    color: $orange;
+}
+
+.yellow{
+    color: $yellow;
+}
+
+.green{
+    color: $green;
+}
+
+.teal{
+    color: $teal;
+}
+
+.cyan{
+    color: $cyan;
+}
+
+.bg-blue {
+    background-color: $blue;
+}

@@ -1,0 +1,4352 @@
+[
+    {
+      "id": 1,
+      "decision_id": 1,
+      "scope_id": 1,
+      "criterion": 1,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 2",
+      "headquarter_slug_3": "sede 3"
+    },
+    {
+      "id": 2,
+      "decision_id": 1,
+      "scope_id": 1,
+      "criterion": 1,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 3",
+      "headquarter_slug_3": "sede 4"
+    },
+    {
+      "id": 3,
+      "decision_id": 1,
+      "scope_id": 1,
+      "criterion": 1,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 4",
+      "headquarter_slug_3": "sede 5"
+    },
+    {
+      "id": 4,
+      "decision_id": 1,
+      "scope_id": 1,
+      "criterion": 2,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 5",
+      "headquarter_slug_3": "sede 6"
+    },
+    {
+      "id": 5,
+      "decision_id": 1,
+      "scope_id": 2,
+      "criterion": 4,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 6",
+      "headquarter_slug_3": "sede 7"
+    },
+    {
+      "id": 6,
+      "decision_id": 1,
+      "scope_id": 2,
+      "criterion": 4,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 7",
+      "headquarter_slug_3": "sede 8"
+    },
+    {
+      "id": 7,
+      "decision_id": 1,
+      "scope_id": 2,
+      "criterion": 4,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 8",
+      "headquarter_slug_3": "sede 9"
+    },
+    {
+      "id": 8,
+      "decision_id": 1,
+      "scope_id": 2,
+      "criterion": 5,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 9",
+      "headquarter_slug_3": "sede 10"
+    },
+    {
+      "id": 9,
+      "decision_id": 1,
+      "scope_id": 2,
+      "criterion": 5,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 10",
+      "headquarter_slug_3": "sede 11"
+    },
+    {
+      "id": 10,
+      "decision_id": 1,
+      "scope_id": 2,
+      "criterion": 5,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 11",
+      "headquarter_slug_3": "sede 12"
+    },
+    {
+      "id": 11,
+      "decision_id": 1,
+      "scope_id": 2,
+      "criterion": 6,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 12",
+      "headquarter_slug_3": "sede 13"
+    },
+    {
+      "id": 12,
+      "decision_id": 1,
+      "scope_id": 2,
+      "criterion": 6,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 13",
+      "headquarter_slug_3": "sede 14"
+    },
+    {
+      "id": 13,
+      "decision_id": 1,
+      "scope_id": 2,
+      "criterion": 6,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 14",
+      "headquarter_slug_3": "sede 15"
+    },
+    {
+      "id": 14,
+      "decision_id": 1,
+      "scope_id": 2,
+      "criterion": 7,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 15",
+      "headquarter_slug_3": "sede 16"
+    },
+    {
+      "id": 15,
+      "decision_id": 1,
+      "scope_id": 2,
+      "criterion": 7,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 16",
+      "headquarter_slug_3": "sede 17"
+    },
+    {
+      "id": 16,
+      "decision_id": 1,
+      "scope_id": 2,
+      "criterion": 7,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 17",
+      "headquarter_slug_3": "sede 18"
+    },
+    {
+      "id": 17,
+      "decision_id": 1,
+      "scope_id": 2,
+      "criterion": 8,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 18",
+      "headquarter_slug_3": "sede 19"
+    },
+    {
+      "id": 18,
+      "decision_id": 1,
+      "scope_id": 2,
+      "criterion": 8,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 19",
+      "headquarter_slug_3": "sede 20"
+    },
+    {
+      "id": 19,
+      "decision_id": 1,
+      "scope_id": 2,
+      "criterion": 8,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 20",
+      "headquarter_slug_3": "sede 21"
+    },
+    {
+      "id": 20,
+      "decision_id": 1,
+      "scope_id": 2,
+      "criterion": 9,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 21",
+      "headquarter_slug_3": "sede 22"
+    },
+    {
+      "id": 21,
+      "decision_id": 1,
+      "scope_id": 2,
+      "criterion": 9,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 22",
+      "headquarter_slug_3": "sede 23"
+    },
+    {
+      "id": 22,
+      "decision_id": 1,
+      "scope_id": 2,
+      "criterion": 9,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 23",
+      "headquarter_slug_3": "sede 24"
+    },
+    {
+      "id": 23,
+      "decision_id": 1,
+      "scope_id": 2,
+      "criterion": 9,
+      "font": 4,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 24",
+      "headquarter_slug_3": "sede 25"
+    },
+    {
+      "id": 24,
+      "decision_id": 1,
+      "scope_id": 2,
+      "criterion": 9,
+      "font": 5,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 25",
+      "headquarter_slug_3": "sede 26"
+    },
+    {
+      "id": 25,
+      "decision_id": 1,
+      "scope_id": 2,
+      "criterion": 9,
+      "font": 6,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 26",
+      "headquarter_slug_3": "sede 27"
+    },
+    {
+      "id": 26,
+      "decision_id": 1,
+      "scope_id": 2,
+      "criterion": 10,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 27",
+      "headquarter_slug_3": "sede 28"
+    },
+    {
+      "id": 27,
+      "decision_id": 1,
+      "scope_id": 2,
+      "criterion": 10,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 28",
+      "headquarter_slug_3": "sede 29"
+    },
+    {
+      "id": 28,
+      "decision_id": 1,
+      "scope_id": 2,
+      "criterion": 11,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 29",
+      "headquarter_slug_3": "sede 30"
+    },
+    {
+      "id": 29,
+      "decision_id": 1,
+      "scope_id": 2,
+      "criterion": 11,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 30",
+      "headquarter_slug_3": "sede 31"
+    },
+    {
+      "id": 30,
+      "decision_id": 1,
+      "scope_id": 3,
+      "criterion": 12,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 31",
+      "headquarter_slug_3": "sede 32"
+    },
+    {
+      "id": 31,
+      "decision_id": 2,
+      "scope_id": 1,
+      "criterion": 1,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 32",
+      "headquarter_slug_3": "sede 33"
+    },
+    {
+      "id": 32,
+      "decision_id": 2,
+      "scope_id": 1,
+      "criterion": 1,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 33",
+      "headquarter_slug_3": "sede 34"
+    },
+    {
+      "id": 33,
+      "decision_id": 2,
+      "scope_id": 1,
+      "criterion": 1,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 34",
+      "headquarter_slug_3": "sede 35"
+    },
+    {
+      "id": 34,
+      "decision_id": 2,
+      "scope_id": 1,
+      "criterion": 3,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 35",
+      "headquarter_slug_3": "sede 36"
+    },
+    {
+      "id": 35,
+      "decision_id": 2,
+      "scope_id": 1,
+      "criterion": 3,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 36",
+      "headquarter_slug_3": "sede 37"
+    },
+    {
+      "id": 36,
+      "decision_id": 2,
+      "scope_id": 1,
+      "criterion": 3,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 37",
+      "headquarter_slug_3": "sede 38"
+    },
+    {
+      "id": 37,
+      "decision_id": 2,
+      "scope_id": 2,
+      "criterion": 4,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 38",
+      "headquarter_slug_3": "sede 39"
+    },
+    {
+      "id": 38,
+      "decision_id": 2,
+      "scope_id": 2,
+      "criterion": 4,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 39",
+      "headquarter_slug_3": "sede 40"
+    },
+    {
+      "id": 39,
+      "decision_id": 2,
+      "scope_id": 2,
+      "criterion": 4,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 40",
+      "headquarter_slug_3": "sede 41"
+    },
+    {
+      "id": 40,
+      "decision_id": 2,
+      "scope_id": 2,
+      "criterion": 5,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 41",
+      "headquarter_slug_3": "sede 42"
+    },
+    {
+      "id": 41,
+      "decision_id": 2,
+      "scope_id": 2,
+      "criterion": 5,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 42",
+      "headquarter_slug_3": "sede 43"
+    },
+    {
+      "id": 42,
+      "decision_id": 2,
+      "scope_id": 2,
+      "criterion": 5,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 43",
+      "headquarter_slug_3": "sede 44"
+    },
+    {
+      "id": 43,
+      "decision_id": 2,
+      "scope_id": 2,
+      "criterion": 6,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 44",
+      "headquarter_slug_3": "sede 45"
+    },
+    {
+      "id": 44,
+      "decision_id": 2,
+      "scope_id": 2,
+      "criterion": 6,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 45",
+      "headquarter_slug_3": "sede 46"
+    },
+    {
+      "id": 45,
+      "decision_id": 2,
+      "scope_id": 2,
+      "criterion": 6,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 46",
+      "headquarter_slug_3": "sede 47"
+    },
+    {
+      "id": 46,
+      "decision_id": 2,
+      "scope_id": 2,
+      "criterion": 7,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 47",
+      "headquarter_slug_3": "sede 48"
+    },
+    {
+      "id": 47,
+      "decision_id": 2,
+      "scope_id": 2,
+      "criterion": 7,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 48",
+      "headquarter_slug_3": "sede 49"
+    },
+    {
+      "id": 48,
+      "decision_id": 2,
+      "scope_id": 2,
+      "criterion": 7,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 49",
+      "headquarter_slug_3": "sede 50"
+    },
+    {
+      "id": 49,
+      "decision_id": 2,
+      "scope_id": 2,
+      "criterion": 8,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 50",
+      "headquarter_slug_3": "sede 51"
+    },
+    {
+      "id": 50,
+      "decision_id": 2,
+      "scope_id": 2,
+      "criterion": 8,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 51",
+      "headquarter_slug_3": "sede 52"
+    },
+    {
+      "id": 51,
+      "decision_id": 2,
+      "scope_id": 2,
+      "criterion": 8,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 52",
+      "headquarter_slug_3": "sede 53"
+    },
+    {
+      "id": 52,
+      "decision_id": 2,
+      "scope_id": 2,
+      "criterion": 9,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 53",
+      "headquarter_slug_3": "sede 54"
+    },
+    {
+      "id": 53,
+      "decision_id": 2,
+      "scope_id": 2,
+      "criterion": 9,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 54",
+      "headquarter_slug_3": "sede 55"
+    },
+    {
+      "id": 54,
+      "decision_id": 2,
+      "scope_id": 2,
+      "criterion": 9,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 55",
+      "headquarter_slug_3": "sede 56"
+    },
+    {
+      "id": 55,
+      "decision_id": 2,
+      "scope_id": 2,
+      "criterion": 9,
+      "font": 4,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 56",
+      "headquarter_slug_3": "sede 57"
+    },
+    {
+      "id": 56,
+      "decision_id": 2,
+      "scope_id": 2,
+      "criterion": 9,
+      "font": 5,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 57",
+      "headquarter_slug_3": "sede 58"
+    },
+    {
+      "id": 57,
+      "decision_id": 2,
+      "scope_id": 2,
+      "criterion": 9,
+      "font": 7,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 58",
+      "headquarter_slug_3": "sede 59"
+    },
+    {
+      "id": 58,
+      "decision_id": 2,
+      "scope_id": 2,
+      "criterion": 9,
+      "font": 6,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 59",
+      "headquarter_slug_3": "sede 60"
+    },
+    {
+      "id": 59,
+      "decision_id": 2,
+      "scope_id": 2,
+      "criterion": 10,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 60",
+      "headquarter_slug_3": "sede 61"
+    },
+    {
+      "id": 60,
+      "decision_id": 2,
+      "scope_id": 2,
+      "criterion": 10,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 61",
+      "headquarter_slug_3": "sede 62"
+    },
+    {
+      "id": 61,
+      "decision_id": 2,
+      "scope_id": 2,
+      "criterion": 11,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 62",
+      "headquarter_slug_3": "sede 63"
+    },
+    {
+      "id": 62,
+      "decision_id": 2,
+      "scope_id": 2,
+      "criterion": 11,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 63",
+      "headquarter_slug_3": "sede 64"
+    },
+    {
+      "id": 63,
+      "decision_id": 2,
+      "scope_id": 3,
+      "criterion": 12,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 64",
+      "headquarter_slug_3": "sede 65"
+    },
+    {
+      "id": 64,
+      "decision_id": 2,
+      "scope_id": 3,
+      "criterion": 13,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 65",
+      "headquarter_slug_3": "sede 66"
+    },
+    {
+      "id": 65,
+      "decision_id": 2,
+      "scope_id": 3,
+      "criterion": 14,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 66",
+      "headquarter_slug_3": "sede 67"
+    },
+    {
+      "id": 66,
+      "decision_id": 2,
+      "scope_id": 3,
+      "criterion": 14,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 67",
+      "headquarter_slug_3": "sede 68"
+    },
+    {
+      "id": 67,
+      "decision_id": 2,
+      "scope_id": 3,
+      "criterion": 14,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 68",
+      "headquarter_slug_3": "sede 69"
+    },
+    {
+      "id": 68,
+      "decision_id": 2,
+      "scope_id": 3,
+      "criterion": 15,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 69",
+      "headquarter_slug_3": "sede 70"
+    },
+    {
+      "id": 69,
+      "decision_id": 3,
+      "scope_id": 1,
+      "criterion": 1,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 70",
+      "headquarter_slug_3": "sede 71"
+    },
+    {
+      "id": 70,
+      "decision_id": 3,
+      "scope_id": 1,
+      "criterion": 1,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 71",
+      "headquarter_slug_3": "sede 72"
+    },
+    {
+      "id": 71,
+      "decision_id": 3,
+      "scope_id": 1,
+      "criterion": 1,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 72",
+      "headquarter_slug_3": "sede 73"
+    },
+    {
+      "id": 72,
+      "decision_id": 3,
+      "scope_id": 1,
+      "criterion": 2,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 73",
+      "headquarter_slug_3": "sede 74"
+    },
+    {
+      "id": 73,
+      "decision_id": 3,
+      "scope_id": 1,
+      "criterion": 2,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 74",
+      "headquarter_slug_3": "sede 75"
+    },
+    {
+      "id": 74,
+      "decision_id": 3,
+      "scope_id": 1,
+      "criterion": 2,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 75",
+      "headquarter_slug_3": "sede 76"
+    },
+    {
+      "id": 75,
+      "decision_id": 3,
+      "scope_id": 1,
+      "criterion": 3,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 76",
+      "headquarter_slug_3": "sede 77"
+    },
+    {
+      "id": 76,
+      "decision_id": 3,
+      "scope_id": 1,
+      "criterion": 3,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 77",
+      "headquarter_slug_3": "sede 78"
+    },
+    {
+      "id": 77,
+      "decision_id": 3,
+      "scope_id": 1,
+      "criterion": 3,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 78",
+      "headquarter_slug_3": "sede 79"
+    },
+    {
+      "id": 78,
+      "decision_id": 3,
+      "scope_id": 2,
+      "criterion": 4,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 79",
+      "headquarter_slug_3": "sede 80"
+    },
+    {
+      "id": 79,
+      "decision_id": 3,
+      "scope_id": 2,
+      "criterion": 4,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 80",
+      "headquarter_slug_3": "sede 81"
+    },
+    {
+      "id": 80,
+      "decision_id": 3,
+      "scope_id": 2,
+      "criterion": 4,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 81",
+      "headquarter_slug_3": "sede 82"
+    },
+    {
+      "id": 81,
+      "decision_id": 3,
+      "scope_id": 2,
+      "criterion": 5,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 82",
+      "headquarter_slug_3": "sede 83"
+    },
+    {
+      "id": 82,
+      "decision_id": 3,
+      "scope_id": 2,
+      "criterion": 5,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 83",
+      "headquarter_slug_3": "sede 84"
+    },
+    {
+      "id": 83,
+      "decision_id": 3,
+      "scope_id": 2,
+      "criterion": 5,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 84",
+      "headquarter_slug_3": "sede 85"
+    },
+    {
+      "id": 84,
+      "decision_id": 3,
+      "scope_id": 2,
+      "criterion": 6,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 85",
+      "headquarter_slug_3": "sede 86"
+    },
+    {
+      "id": 85,
+      "decision_id": 3,
+      "scope_id": 2,
+      "criterion": 6,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 86",
+      "headquarter_slug_3": "sede 87"
+    },
+    {
+      "id": 86,
+      "decision_id": 3,
+      "scope_id": 2,
+      "criterion": 6,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 87",
+      "headquarter_slug_3": "sede 88"
+    },
+    {
+      "id": 87,
+      "decision_id": 3,
+      "scope_id": 2,
+      "criterion": 7,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 88",
+      "headquarter_slug_3": "sede 89"
+    },
+    {
+      "id": 88,
+      "decision_id": 3,
+      "scope_id": 2,
+      "criterion": 7,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 89",
+      "headquarter_slug_3": "sede 90"
+    },
+    {
+      "id": 89,
+      "decision_id": 3,
+      "scope_id": 2,
+      "criterion": 7,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 90",
+      "headquarter_slug_3": "sede 91"
+    },
+    {
+      "id": 90,
+      "decision_id": 3,
+      "scope_id": 2,
+      "criterion": 8,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 91",
+      "headquarter_slug_3": "sede 92"
+    },
+    {
+      "id": 91,
+      "decision_id": 3,
+      "scope_id": 2,
+      "criterion": 8,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 92",
+      "headquarter_slug_3": "sede 93"
+    },
+    {
+      "id": 92,
+      "decision_id": 3,
+      "scope_id": 2,
+      "criterion": 8,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 93",
+      "headquarter_slug_3": "sede 94"
+    },
+    {
+      "id": 93,
+      "decision_id": 3,
+      "scope_id": 2,
+      "criterion": 9,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 94",
+      "headquarter_slug_3": "sede 95"
+    },
+    {
+      "id": 94,
+      "decision_id": 3,
+      "scope_id": 2,
+      "criterion": 9,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 95",
+      "headquarter_slug_3": "sede 96"
+    },
+    {
+      "id": 95,
+      "decision_id": 3,
+      "scope_id": 2,
+      "criterion": 9,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 96",
+      "headquarter_slug_3": "sede 97"
+    },
+    {
+      "id": 96,
+      "decision_id": 3,
+      "scope_id": 2,
+      "criterion": 9,
+      "font": 8,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 97",
+      "headquarter_slug_3": "sede 98"
+    },
+    {
+      "id": 97,
+      "decision_id": 3,
+      "scope_id": 2,
+      "criterion": 9,
+      "font": 7,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 98",
+      "headquarter_slug_3": "sede 99"
+    },
+    {
+      "id": 98,
+      "decision_id": 3,
+      "scope_id": 2,
+      "criterion": 9,
+      "font": 6,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 99",
+      "headquarter_slug_3": "sede 100"
+    },
+    {
+      "id": 99,
+      "decision_id": 3,
+      "scope_id": 2,
+      "criterion": 10,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 100",
+      "headquarter_slug_3": "sede 101"
+    },
+    {
+      "id": 100,
+      "decision_id": 3,
+      "scope_id": 2,
+      "criterion": 10,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 101",
+      "headquarter_slug_3": "sede 102"
+    },
+    {
+      "id": 101,
+      "decision_id": 3,
+      "scope_id": 2,
+      "criterion": 11,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 102",
+      "headquarter_slug_3": "sede 103"
+    },
+    {
+      "id": 102,
+      "decision_id": 3,
+      "scope_id": 2,
+      "criterion": 11,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 103",
+      "headquarter_slug_3": "sede 104"
+    },
+    {
+      "id": 103,
+      "decision_id": 3,
+      "scope_id": 3,
+      "criterion": 12,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 104",
+      "headquarter_slug_3": "sede 105"
+    },
+    {
+      "id": 104,
+      "decision_id": 3,
+      "scope_id": 3,
+      "criterion": 12,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 105",
+      "headquarter_slug_3": "sede 106"
+    },
+    {
+      "id": 105,
+      "decision_id": 3,
+      "scope_id": 3,
+      "criterion": 13,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 106",
+      "headquarter_slug_3": "sede 107"
+    },
+    {
+      "id": 106,
+      "decision_id": 3,
+      "scope_id": 3,
+      "criterion": 14,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 107",
+      "headquarter_slug_3": "sede 108"
+    },
+    {
+      "id": 107,
+      "decision_id": 3,
+      "scope_id": 3,
+      "criterion": 14,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 108",
+      "headquarter_slug_3": "sede 109"
+    },
+    {
+      "id": 108,
+      "decision_id": 3,
+      "scope_id": 3,
+      "criterion": 14,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 109",
+      "headquarter_slug_3": "sede 110"
+    },
+    {
+      "id": 109,
+      "decision_id": 3,
+      "scope_id": 3,
+      "criterion": 15,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 110",
+      "headquarter_slug_3": "sede 111"
+    },
+    {
+      "id": 110,
+      "decision_id": 4,
+      "scope_id": 1,
+      "criterion": 1,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 111",
+      "headquarter_slug_3": "sede 112"
+    },
+    {
+      "id": 111,
+      "decision_id": 4,
+      "scope_id": 1,
+      "criterion": 1,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 112",
+      "headquarter_slug_3": "sede 113"
+    },
+    {
+      "id": 112,
+      "decision_id": 4,
+      "scope_id": 1,
+      "criterion": 1,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 113",
+      "headquarter_slug_3": "sede 114"
+    },
+    {
+      "id": 113,
+      "decision_id": 4,
+      "scope_id": 1,
+      "criterion": 2,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 114",
+      "headquarter_slug_3": "sede 115"
+    },
+    {
+      "id": 114,
+      "decision_id": 4,
+      "scope_id": 1,
+      "criterion": 2,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 115",
+      "headquarter_slug_3": "sede 116"
+    },
+    {
+      "id": 115,
+      "decision_id": 4,
+      "scope_id": 1,
+      "criterion": 2,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 116",
+      "headquarter_slug_3": "sede 117"
+    },
+    {
+      "id": 116,
+      "decision_id": 4,
+      "scope_id": 1,
+      "criterion": 3,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 117",
+      "headquarter_slug_3": "sede 118"
+    },
+    {
+      "id": 117,
+      "decision_id": 4,
+      "scope_id": 1,
+      "criterion": 3,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 118",
+      "headquarter_slug_3": "sede 119"
+    },
+    {
+      "id": 118,
+      "decision_id": 4,
+      "scope_id": 1,
+      "criterion": 3,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 119",
+      "headquarter_slug_3": "sede 120"
+    },
+    {
+      "id": 119,
+      "decision_id": 4,
+      "scope_id": 2,
+      "criterion": 4,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 120",
+      "headquarter_slug_3": "sede 121"
+    },
+    {
+      "id": 120,
+      "decision_id": 4,
+      "scope_id": 2,
+      "criterion": 5,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 121",
+      "headquarter_slug_3": "sede 122"
+    },
+    {
+      "id": 121,
+      "decision_id": 4,
+      "scope_id": 2,
+      "criterion": 5,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 122",
+      "headquarter_slug_3": "sede 123"
+    },
+    {
+      "id": 122,
+      "decision_id": 4,
+      "scope_id": 2,
+      "criterion": 5,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 123",
+      "headquarter_slug_3": "sede 124"
+    },
+    {
+      "id": 123,
+      "decision_id": 4,
+      "scope_id": 2,
+      "criterion": 6,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 124",
+      "headquarter_slug_3": "sede 125"
+    },
+    {
+      "id": 124,
+      "decision_id": 4,
+      "scope_id": 2,
+      "criterion": 6,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 125",
+      "headquarter_slug_3": "sede 126"
+    },
+    {
+      "id": 125,
+      "decision_id": 4,
+      "scope_id": 2,
+      "criterion": 6,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 126",
+      "headquarter_slug_3": "sede 127"
+    },
+    {
+      "id": 126,
+      "decision_id": 4,
+      "scope_id": 2,
+      "criterion": 7,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 127",
+      "headquarter_slug_3": "sede 128"
+    },
+    {
+      "id": 127,
+      "decision_id": 4,
+      "scope_id": 2,
+      "criterion": 7,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 128",
+      "headquarter_slug_3": "sede 129"
+    },
+    {
+      "id": 128,
+      "decision_id": 4,
+      "scope_id": 2,
+      "criterion": 7,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 129",
+      "headquarter_slug_3": "sede 130"
+    },
+    {
+      "id": 129,
+      "decision_id": 4,
+      "scope_id": 2,
+      "criterion": 9,
+      "font": 6,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 130",
+      "headquarter_slug_3": "sede 131"
+    },
+    {
+      "id": 130,
+      "decision_id": 4,
+      "scope_id": 2,
+      "criterion": 10,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 131",
+      "headquarter_slug_3": "sede 132"
+    },
+    {
+      "id": 131,
+      "decision_id": 4,
+      "scope_id": 2,
+      "criterion": 10,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 132",
+      "headquarter_slug_3": "sede 133"
+    },
+    {
+      "id": 132,
+      "decision_id": 4,
+      "scope_id": 2,
+      "criterion": 11,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 133",
+      "headquarter_slug_3": "sede 134"
+    },
+    {
+      "id": 133,
+      "decision_id": 4,
+      "scope_id": 2,
+      "criterion": 11,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 134",
+      "headquarter_slug_3": "sede 135"
+    },
+    {
+      "id": 134,
+      "decision_id": 4,
+      "scope_id": 3,
+      "criterion": 12,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 135",
+      "headquarter_slug_3": "sede 136"
+    },
+    {
+      "id": 135,
+      "decision_id": 4,
+      "scope_id": 3,
+      "criterion": 12,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 136",
+      "headquarter_slug_3": "sede 137"
+    },
+    {
+      "id": 136,
+      "decision_id": 4,
+      "scope_id": 3,
+      "criterion": 13,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 137",
+      "headquarter_slug_3": "sede 138"
+    },
+    {
+      "id": 137,
+      "decision_id": 4,
+      "scope_id": 3,
+      "criterion": 14,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 138",
+      "headquarter_slug_3": "sede 139"
+    },
+    {
+      "id": 138,
+      "decision_id": 4,
+      "scope_id": 3,
+      "criterion": 14,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 139",
+      "headquarter_slug_3": "sede 140"
+    },
+    {
+      "id": 139,
+      "decision_id": 4,
+      "scope_id": 3,
+      "criterion": 14,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 140",
+      "headquarter_slug_3": "sede 141"
+    },
+    {
+      "id": 140,
+      "decision_id": 4,
+      "scope_id": 3,
+      "criterion": 15,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 141",
+      "headquarter_slug_3": "sede 142"
+    },
+    {
+      "id": 141,
+      "decision_id": 5,
+      "scope_id": 1,
+      "criterion": 1,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 142",
+      "headquarter_slug_3": "sede 143"
+    },
+    {
+      "id": 142,
+      "decision_id": 5,
+      "scope_id": 1,
+      "criterion": 1,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 143",
+      "headquarter_slug_3": "sede 144"
+    },
+    {
+      "id": 143,
+      "decision_id": 5,
+      "scope_id": 1,
+      "criterion": 1,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 144",
+      "headquarter_slug_3": "sede 145"
+    },
+    {
+      "id": 144,
+      "decision_id": 5,
+      "scope_id": 1,
+      "criterion": 2,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 145",
+      "headquarter_slug_3": "sede 146"
+    },
+    {
+      "id": 145,
+      "decision_id": 5,
+      "scope_id": 1,
+      "criterion": 2,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 146",
+      "headquarter_slug_3": "sede 147"
+    },
+    {
+      "id": 146,
+      "decision_id": 5,
+      "scope_id": 1,
+      "criterion": 2,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 147",
+      "headquarter_slug_3": "sede 148"
+    },
+    {
+      "id": 147,
+      "decision_id": 5,
+      "scope_id": 1,
+      "criterion": 3,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 148",
+      "headquarter_slug_3": "sede 149"
+    },
+    {
+      "id": 148,
+      "decision_id": 5,
+      "scope_id": 1,
+      "criterion": 3,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 149",
+      "headquarter_slug_3": "sede 150"
+    },
+    {
+      "id": 149,
+      "decision_id": 5,
+      "scope_id": 1,
+      "criterion": 3,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 150",
+      "headquarter_slug_3": "sede 151"
+    },
+    {
+      "id": 150,
+      "decision_id": 5,
+      "scope_id": 2,
+      "criterion": 4,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 151",
+      "headquarter_slug_3": "sede 152"
+    },
+    {
+      "id": 151,
+      "decision_id": 5,
+      "scope_id": 2,
+      "criterion": 4,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 152",
+      "headquarter_slug_3": "sede 153"
+    },
+    {
+      "id": 152,
+      "decision_id": 5,
+      "scope_id": 2,
+      "criterion": 4,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 153",
+      "headquarter_slug_3": "sede 154"
+    },
+    {
+      "id": 153,
+      "decision_id": 5,
+      "scope_id": 2,
+      "criterion": 5,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 154",
+      "headquarter_slug_3": "sede 155"
+    },
+    {
+      "id": 154,
+      "decision_id": 5,
+      "scope_id": 2,
+      "criterion": 5,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 155",
+      "headquarter_slug_3": "sede 156"
+    },
+    {
+      "id": 155,
+      "decision_id": 5,
+      "scope_id": 2,
+      "criterion": 5,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 156",
+      "headquarter_slug_3": "sede 157"
+    },
+    {
+      "id": 156,
+      "decision_id": 5,
+      "scope_id": 2,
+      "criterion": 6,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 157",
+      "headquarter_slug_3": "sede 158"
+    },
+    {
+      "id": 157,
+      "decision_id": 5,
+      "scope_id": 2,
+      "criterion": 6,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 158",
+      "headquarter_slug_3": "sede 159"
+    },
+    {
+      "id": 158,
+      "decision_id": 5,
+      "scope_id": 2,
+      "criterion": 6,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 159",
+      "headquarter_slug_3": "sede 160"
+    },
+    {
+      "id": 159,
+      "decision_id": 5,
+      "scope_id": 2,
+      "criterion": 7,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 160",
+      "headquarter_slug_3": "sede 161"
+    },
+    {
+      "id": 160,
+      "decision_id": 5,
+      "scope_id": 2,
+      "criterion": 7,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 161",
+      "headquarter_slug_3": "sede 162"
+    },
+    {
+      "id": 161,
+      "decision_id": 5,
+      "scope_id": 2,
+      "criterion": 7,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 162",
+      "headquarter_slug_3": "sede 163"
+    },
+    {
+      "id": 162,
+      "decision_id": 5,
+      "scope_id": 2,
+      "criterion": 8,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 163",
+      "headquarter_slug_3": "sede 164"
+    },
+    {
+      "id": 163,
+      "decision_id": 5,
+      "scope_id": 2,
+      "criterion": 8,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 164",
+      "headquarter_slug_3": "sede 165"
+    },
+    {
+      "id": 164,
+      "decision_id": 5,
+      "scope_id": 2,
+      "criterion": 8,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 165",
+      "headquarter_slug_3": "sede 166"
+    },
+    {
+      "id": 165,
+      "decision_id": 5,
+      "scope_id": 2,
+      "criterion": 9,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 166",
+      "headquarter_slug_3": "sede 167"
+    },
+    {
+      "id": 166,
+      "decision_id": 5,
+      "scope_id": 2,
+      "criterion": 9,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 167",
+      "headquarter_slug_3": "sede 168"
+    },
+    {
+      "id": 167,
+      "decision_id": 5,
+      "scope_id": 2,
+      "criterion": 9,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 168",
+      "headquarter_slug_3": "sede 169"
+    },
+    {
+      "id": 168,
+      "decision_id": 5,
+      "scope_id": 2,
+      "criterion": 9,
+      "font": 4,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 169",
+      "headquarter_slug_3": "sede 170"
+    },
+    {
+      "id": 169,
+      "decision_id": 5,
+      "scope_id": 2,
+      "criterion": 9,
+      "font": 5,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 170",
+      "headquarter_slug_3": "sede 171"
+    },
+    {
+      "id": 170,
+      "decision_id": 5,
+      "scope_id": 2,
+      "criterion": 9,
+      "font": 9,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 171",
+      "headquarter_slug_3": "sede 172"
+    },
+    {
+      "id": 171,
+      "decision_id": 5,
+      "scope_id": 2,
+      "criterion": 9,
+      "font": 6,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 172",
+      "headquarter_slug_3": "sede 173"
+    },
+    {
+      "id": 172,
+      "decision_id": 5,
+      "scope_id": 2,
+      "criterion": 10,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 173",
+      "headquarter_slug_3": "sede 174"
+    },
+    {
+      "id": 173,
+      "decision_id": 5,
+      "scope_id": 2,
+      "criterion": 10,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 174",
+      "headquarter_slug_3": "sede 175"
+    },
+    {
+      "id": 174,
+      "decision_id": 5,
+      "scope_id": 2,
+      "criterion": 11,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 175",
+      "headquarter_slug_3": "sede 176"
+    },
+    {
+      "id": 175,
+      "decision_id": 5,
+      "scope_id": 2,
+      "criterion": 11,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 176",
+      "headquarter_slug_3": "sede 177"
+    },
+    {
+      "id": 176,
+      "decision_id": 5,
+      "scope_id": 3,
+      "criterion": 13,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 177",
+      "headquarter_slug_3": "sede 178"
+    },
+    {
+      "id": 177,
+      "decision_id": 5,
+      "scope_id": 3,
+      "criterion": 15,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 178",
+      "headquarter_slug_3": "sede 179"
+    },
+    {
+      "id": 178,
+      "decision_id": 6,
+      "scope_id": 1,
+      "criterion": 1,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 179",
+      "headquarter_slug_3": "sede 180"
+    },
+    {
+      "id": 179,
+      "decision_id": 6,
+      "scope_id": 1,
+      "criterion": 1,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 180",
+      "headquarter_slug_3": "sede 181"
+    },
+    {
+      "id": 180,
+      "decision_id": 6,
+      "scope_id": 1,
+      "criterion": 1,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 181",
+      "headquarter_slug_3": "sede 182"
+    },
+    {
+      "id": 181,
+      "decision_id": 6,
+      "scope_id": 1,
+      "criterion": 2,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 182",
+      "headquarter_slug_3": "sede 183"
+    },
+    {
+      "id": 182,
+      "decision_id": 6,
+      "scope_id": 1,
+      "criterion": 2,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 183",
+      "headquarter_slug_3": "sede 184"
+    },
+    {
+      "id": 183,
+      "decision_id": 6,
+      "scope_id": 1,
+      "criterion": 2,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 184",
+      "headquarter_slug_3": "sede 185"
+    },
+    {
+      "id": 184,
+      "decision_id": 6,
+      "scope_id": 2,
+      "criterion": 4,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 185",
+      "headquarter_slug_3": "sede 186"
+    },
+    {
+      "id": 185,
+      "decision_id": 6,
+      "scope_id": 2,
+      "criterion": 4,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 186",
+      "headquarter_slug_3": "sede 187"
+    },
+    {
+      "id": 186,
+      "decision_id": 6,
+      "scope_id": 2,
+      "criterion": 4,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 187",
+      "headquarter_slug_3": "sede 188"
+    },
+    {
+      "id": 187,
+      "decision_id": 6,
+      "scope_id": 2,
+      "criterion": 5,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 188",
+      "headquarter_slug_3": "sede 189"
+    },
+    {
+      "id": 188,
+      "decision_id": 6,
+      "scope_id": 2,
+      "criterion": 5,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 189",
+      "headquarter_slug_3": "sede 190"
+    },
+    {
+      "id": 189,
+      "decision_id": 6,
+      "scope_id": 2,
+      "criterion": 5,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 190",
+      "headquarter_slug_3": "sede 191"
+    },
+    {
+      "id": 190,
+      "decision_id": 6,
+      "scope_id": 2,
+      "criterion": 6,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 191",
+      "headquarter_slug_3": "sede 192"
+    },
+    {
+      "id": 191,
+      "decision_id": 6,
+      "scope_id": 2,
+      "criterion": 6,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 192",
+      "headquarter_slug_3": "sede 193"
+    },
+    {
+      "id": 192,
+      "decision_id": 6,
+      "scope_id": 2,
+      "criterion": 6,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 193",
+      "headquarter_slug_3": "sede 194"
+    },
+    {
+      "id": 193,
+      "decision_id": 6,
+      "scope_id": 2,
+      "criterion": 7,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 194",
+      "headquarter_slug_3": "sede 195"
+    },
+    {
+      "id": 194,
+      "decision_id": 6,
+      "scope_id": 2,
+      "criterion": 7,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 195",
+      "headquarter_slug_3": "sede 196"
+    },
+    {
+      "id": 195,
+      "decision_id": 6,
+      "scope_id": 2,
+      "criterion": 7,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 196",
+      "headquarter_slug_3": "sede 197"
+    },
+    {
+      "id": 196,
+      "decision_id": 6,
+      "scope_id": 2,
+      "criterion": 8,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 197",
+      "headquarter_slug_3": "sede 198"
+    },
+    {
+      "id": 197,
+      "decision_id": 6,
+      "scope_id": 2,
+      "criterion": 8,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 198",
+      "headquarter_slug_3": "sede 199"
+    },
+    {
+      "id": 198,
+      "decision_id": 6,
+      "scope_id": 2,
+      "criterion": 8,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 199",
+      "headquarter_slug_3": "sede 200"
+    },
+    {
+      "id": 199,
+      "decision_id": 6,
+      "scope_id": 2,
+      "criterion": 9,
+      "font": 7,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 200",
+      "headquarter_slug_3": "sede 201"
+    },
+    {
+      "id": 200,
+      "decision_id": 6,
+      "scope_id": 2,
+      "criterion": 9,
+      "font": 6,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 201",
+      "headquarter_slug_3": "sede 202"
+    },
+    {
+      "id": 201,
+      "decision_id": 6,
+      "scope_id": 2,
+      "criterion": 9,
+      "font": 10,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 202",
+      "headquarter_slug_3": "sede 203"
+    },
+    {
+      "id": 202,
+      "decision_id": 6,
+      "scope_id": 2,
+      "criterion": 10,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 203",
+      "headquarter_slug_3": "sede 204"
+    },
+    {
+      "id": 203,
+      "decision_id": 6,
+      "scope_id": 2,
+      "criterion": 10,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 204",
+      "headquarter_slug_3": "sede 205"
+    },
+    {
+      "id": 204,
+      "decision_id": 6,
+      "scope_id": 2,
+      "criterion": 11,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 205",
+      "headquarter_slug_3": "sede 206"
+    },
+    {
+      "id": 205,
+      "decision_id": 6,
+      "scope_id": 2,
+      "criterion": 11,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 206",
+      "headquarter_slug_3": "sede 207"
+    },
+    {
+      "id": 206,
+      "decision_id": 6,
+      "scope_id": 3,
+      "criterion": 12,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 207",
+      "headquarter_slug_3": "sede 208"
+    },
+    {
+      "id": 207,
+      "decision_id": 6,
+      "scope_id": 3,
+      "criterion": 13,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 208",
+      "headquarter_slug_3": "sede 209"
+    },
+    {
+      "id": 208,
+      "decision_id": 6,
+      "scope_id": 3,
+      "criterion": 14,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 209",
+      "headquarter_slug_3": "sede 210"
+    },
+    {
+      "id": 209,
+      "decision_id": 6,
+      "scope_id": 3,
+      "criterion": 14,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 210",
+      "headquarter_slug_3": "sede 211"
+    },
+    {
+      "id": 210,
+      "decision_id": 6,
+      "scope_id": 3,
+      "criterion": 14,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 211",
+      "headquarter_slug_3": "sede 212"
+    },
+    {
+      "id": 211,
+      "decision_id": 6,
+      "scope_id": 3,
+      "criterion": 15,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 212",
+      "headquarter_slug_3": "sede 213"
+    },
+    {
+      "id": 212,
+      "decision_id": 7,
+      "scope_id": 1,
+      "criterion": 2,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 213",
+      "headquarter_slug_3": "sede 214"
+    },
+    {
+      "id": 213,
+      "decision_id": 7,
+      "scope_id": 1,
+      "criterion": 2,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 214",
+      "headquarter_slug_3": "sede 215"
+    },
+    {
+      "id": 214,
+      "decision_id": 7,
+      "scope_id": 1,
+      "criterion": 2,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 215",
+      "headquarter_slug_3": "sede 216"
+    },
+    {
+      "id": 215,
+      "decision_id": 7,
+      "scope_id": 1,
+      "criterion": 3,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 216",
+      "headquarter_slug_3": "sede 217"
+    },
+    {
+      "id": 216,
+      "decision_id": 7,
+      "scope_id": 1,
+      "criterion": 3,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 217",
+      "headquarter_slug_3": "sede 218"
+    },
+    {
+      "id": 217,
+      "decision_id": 7,
+      "scope_id": 1,
+      "criterion": 3,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 218",
+      "headquarter_slug_3": "sede 219"
+    },
+    {
+      "id": 218,
+      "decision_id": 7,
+      "scope_id": 2,
+      "criterion": 4,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 219",
+      "headquarter_slug_3": "sede 220"
+    },
+    {
+      "id": 219,
+      "decision_id": 7,
+      "scope_id": 2,
+      "criterion": 4,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 220",
+      "headquarter_slug_3": "sede 221"
+    },
+    {
+      "id": 220,
+      "decision_id": 7,
+      "scope_id": 2,
+      "criterion": 4,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 221",
+      "headquarter_slug_3": "sede 222"
+    },
+    {
+      "id": 221,
+      "decision_id": 7,
+      "scope_id": 2,
+      "criterion": 5,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 222",
+      "headquarter_slug_3": "sede 223"
+    },
+    {
+      "id": 222,
+      "decision_id": 7,
+      "scope_id": 2,
+      "criterion": 5,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 223",
+      "headquarter_slug_3": "sede 224"
+    },
+    {
+      "id": 223,
+      "decision_id": 7,
+      "scope_id": 2,
+      "criterion": 5,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 224",
+      "headquarter_slug_3": "sede 225"
+    },
+    {
+      "id": 224,
+      "decision_id": 7,
+      "scope_id": 2,
+      "criterion": 6,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 225",
+      "headquarter_slug_3": "sede 226"
+    },
+    {
+      "id": 225,
+      "decision_id": 7,
+      "scope_id": 2,
+      "criterion": 6,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 226",
+      "headquarter_slug_3": "sede 227"
+    },
+    {
+      "id": 226,
+      "decision_id": 7,
+      "scope_id": 2,
+      "criterion": 6,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 227",
+      "headquarter_slug_3": "sede 228"
+    },
+    {
+      "id": 227,
+      "decision_id": 7,
+      "scope_id": 2,
+      "criterion": 7,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 228",
+      "headquarter_slug_3": "sede 229"
+    },
+    {
+      "id": 228,
+      "decision_id": 7,
+      "scope_id": 2,
+      "criterion": 7,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 229",
+      "headquarter_slug_3": "sede 230"
+    },
+    {
+      "id": 229,
+      "decision_id": 7,
+      "scope_id": 2,
+      "criterion": 7,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 230",
+      "headquarter_slug_3": "sede 231"
+    },
+    {
+      "id": 230,
+      "decision_id": 7,
+      "scope_id": 2,
+      "criterion": 8,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 231",
+      "headquarter_slug_3": "sede 232"
+    },
+    {
+      "id": 231,
+      "decision_id": 7,
+      "scope_id": 2,
+      "criterion": 8,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 232",
+      "headquarter_slug_3": "sede 233"
+    },
+    {
+      "id": 232,
+      "decision_id": 7,
+      "scope_id": 2,
+      "criterion": 8,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 233",
+      "headquarter_slug_3": "sede 234"
+    },
+    {
+      "id": 233,
+      "decision_id": 7,
+      "scope_id": 2,
+      "criterion": 9,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 234",
+      "headquarter_slug_3": "sede 235"
+    },
+    {
+      "id": 234,
+      "decision_id": 7,
+      "scope_id": 2,
+      "criterion": 9,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 235",
+      "headquarter_slug_3": "sede 236"
+    },
+    {
+      "id": 235,
+      "decision_id": 7,
+      "scope_id": 2,
+      "criterion": 9,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 236",
+      "headquarter_slug_3": "sede 237"
+    },
+    {
+      "id": 236,
+      "decision_id": 7,
+      "scope_id": 2,
+      "criterion": 9,
+      "font": 8,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 237",
+      "headquarter_slug_3": "sede 238"
+    },
+    {
+      "id": 237,
+      "decision_id": 7,
+      "scope_id": 2,
+      "criterion": 9,
+      "font": 11,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 238",
+      "headquarter_slug_3": "sede 239"
+    },
+    {
+      "id": 238,
+      "decision_id": 7,
+      "scope_id": 2,
+      "criterion": 9,
+      "font": 7,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 239",
+      "headquarter_slug_3": "sede 240"
+    },
+    {
+      "id": 239,
+      "decision_id": 7,
+      "scope_id": 2,
+      "criterion": 9,
+      "font": 6,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 240",
+      "headquarter_slug_3": "sede 241"
+    },
+    {
+      "id": 240,
+      "decision_id": 7,
+      "scope_id": 2,
+      "criterion": 10,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 241",
+      "headquarter_slug_3": "sede 242"
+    },
+    {
+      "id": 241,
+      "decision_id": 7,
+      "scope_id": 2,
+      "criterion": 10,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 242",
+      "headquarter_slug_3": "sede 243"
+    },
+    {
+      "id": 242,
+      "decision_id": 7,
+      "scope_id": 3,
+      "criterion": 11,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 243",
+      "headquarter_slug_3": "sede 244"
+    },
+    {
+      "id": 243,
+      "decision_id": 7,
+      "scope_id": 3,
+      "criterion": 11,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 244",
+      "headquarter_slug_3": "sede 245"
+    },
+    {
+      "id": 244,
+      "decision_id": 7,
+      "scope_id": 3,
+      "criterion": 12,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 245",
+      "headquarter_slug_3": "sede 246"
+    },
+    {
+      "id": 245,
+      "decision_id": 7,
+      "scope_id": 3,
+      "criterion": 13,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 246",
+      "headquarter_slug_3": "sede 247"
+    },
+    {
+      "id": 246,
+      "decision_id": 7,
+      "scope_id": 3,
+      "criterion": 14,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 247",
+      "headquarter_slug_3": "sede 248"
+    },
+    {
+      "id": 247,
+      "decision_id": 7,
+      "scope_id": 3,
+      "criterion": 14,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 248",
+      "headquarter_slug_3": "sede 249"
+    },
+    {
+      "id": 248,
+      "decision_id": 7,
+      "scope_id": 3,
+      "criterion": 14,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 249",
+      "headquarter_slug_3": "sede 250"
+    },
+    {
+      "id": 249,
+      "decision_id": 8,
+      "scope_id": 1,
+      "criterion": 3,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 250",
+      "headquarter_slug_3": "sede 251"
+    },
+    {
+      "id": 250,
+      "decision_id": 8,
+      "scope_id": 1,
+      "criterion": 3,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 251",
+      "headquarter_slug_3": "sede 252"
+    },
+    {
+      "id": 251,
+      "decision_id": 8,
+      "scope_id": 1,
+      "criterion": 3,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 252",
+      "headquarter_slug_3": "sede 253"
+    },
+    {
+      "id": 252,
+      "decision_id": 8,
+      "scope_id": 2,
+      "criterion": 4,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 253",
+      "headquarter_slug_3": "sede 254"
+    },
+    {
+      "id": 253,
+      "decision_id": 8,
+      "scope_id": 2,
+      "criterion": 4,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 254",
+      "headquarter_slug_3": "sede 255"
+    },
+    {
+      "id": 254,
+      "decision_id": 8,
+      "scope_id": 2,
+      "criterion": 5,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 255",
+      "headquarter_slug_3": "sede 256"
+    },
+    {
+      "id": 255,
+      "decision_id": 8,
+      "scope_id": 2,
+      "criterion": 5,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 256",
+      "headquarter_slug_3": "sede 257"
+    },
+    {
+      "id": 256,
+      "decision_id": 8,
+      "scope_id": 2,
+      "criterion": 5,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 257",
+      "headquarter_slug_3": "sede 258"
+    },
+    {
+      "id": 257,
+      "decision_id": 8,
+      "scope_id": 2,
+      "criterion": 6,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 258",
+      "headquarter_slug_3": "sede 259"
+    },
+    {
+      "id": 258,
+      "decision_id": 8,
+      "scope_id": 2,
+      "criterion": 6,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 259",
+      "headquarter_slug_3": "sede 260"
+    },
+    {
+      "id": 259,
+      "decision_id": 8,
+      "scope_id": 2,
+      "criterion": 6,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 260",
+      "headquarter_slug_3": "sede 261"
+    },
+    {
+      "id": 260,
+      "decision_id": 8,
+      "scope_id": 2,
+      "criterion": 9,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 261",
+      "headquarter_slug_3": "sede 262"
+    },
+    {
+      "id": 261,
+      "decision_id": 8,
+      "scope_id": 2,
+      "criterion": 9,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 262",
+      "headquarter_slug_3": "sede 263"
+    },
+    {
+      "id": 262,
+      "decision_id": 8,
+      "scope_id": 2,
+      "criterion": 9,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 263",
+      "headquarter_slug_3": "sede 264"
+    },
+    {
+      "id": 263,
+      "decision_id": 8,
+      "scope_id": 2,
+      "criterion": 9,
+      "font": 8,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 264",
+      "headquarter_slug_3": "sede 265"
+    },
+    {
+      "id": 264,
+      "decision_id": 8,
+      "scope_id": 2,
+      "criterion": 9,
+      "font": 7,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 265",
+      "headquarter_slug_3": "sede 266"
+    },
+    {
+      "id": 265,
+      "decision_id": 8,
+      "scope_id": 2,
+      "criterion": 9,
+      "font": 6,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 266",
+      "headquarter_slug_3": "sede 267"
+    },
+    {
+      "id": 266,
+      "decision_id": 8,
+      "scope_id": 2,
+      "criterion": 9,
+      "font": 12,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 267",
+      "headquarter_slug_3": "sede 268"
+    },
+    {
+      "id": 267,
+      "decision_id": 8,
+      "scope_id": 2,
+      "criterion": 10,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 268",
+      "headquarter_slug_3": "sede 269"
+    },
+    {
+      "id": 268,
+      "decision_id": 8,
+      "scope_id": 2,
+      "criterion": 10,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 269",
+      "headquarter_slug_3": "sede 270"
+    },
+    {
+      "id": 269,
+      "decision_id": 8,
+      "scope_id": 2,
+      "criterion": 11,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 270",
+      "headquarter_slug_3": "sede 271"
+    },
+    {
+      "id": 270,
+      "decision_id": 8,
+      "scope_id": 2,
+      "criterion": 11,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 271",
+      "headquarter_slug_3": "sede 272"
+    },
+    {
+      "id": 271,
+      "decision_id": 8,
+      "scope_id": 3,
+      "criterion": 12,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 272",
+      "headquarter_slug_3": "sede 273"
+    },
+    {
+      "id": 272,
+      "decision_id": 8,
+      "scope_id": 3,
+      "criterion": 13,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 273",
+      "headquarter_slug_3": "sede 274"
+    },
+    {
+      "id": 273,
+      "decision_id": 8,
+      "scope_id": 3,
+      "criterion": 14,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 274",
+      "headquarter_slug_3": "sede 275"
+    },
+    {
+      "id": 274,
+      "decision_id": 8,
+      "scope_id": 3,
+      "criterion": 14,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 275",
+      "headquarter_slug_3": "sede 276"
+    },
+    {
+      "id": 275,
+      "decision_id": 8,
+      "scope_id": 3,
+      "criterion": 14,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 276",
+      "headquarter_slug_3": "sede 277"
+    },
+    {
+      "id": 276,
+      "decision_id": 8,
+      "scope_id": 3,
+      "criterion": 15,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 277",
+      "headquarter_slug_3": "sede 278"
+    },
+    {
+      "id": 277,
+      "decision_id": 9,
+      "scope_id": 1,
+      "criterion": 1,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 278",
+      "headquarter_slug_3": "sede 279"
+    },
+    {
+      "id": 278,
+      "decision_id": 9,
+      "scope_id": 1,
+      "criterion": 1,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 279",
+      "headquarter_slug_3": "sede 280"
+    },
+    {
+      "id": 279,
+      "decision_id": 9,
+      "scope_id": 1,
+      "criterion": 1,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 280",
+      "headquarter_slug_3": "sede 281"
+    },
+    {
+      "id": 280,
+      "decision_id": 9,
+      "scope_id": 1,
+      "criterion": 2,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 281",
+      "headquarter_slug_3": "sede 282"
+    },
+    {
+      "id": 281,
+      "decision_id": 9,
+      "scope_id": 1,
+      "criterion": 2,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 282",
+      "headquarter_slug_3": "sede 283"
+    },
+    {
+      "id": 282,
+      "decision_id": 9,
+      "scope_id": 1,
+      "criterion": 2,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 283",
+      "headquarter_slug_3": "sede 284"
+    },
+    {
+      "id": 283,
+      "decision_id": 9,
+      "scope_id": 1,
+      "criterion": 3,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 284",
+      "headquarter_slug_3": "sede 285"
+    },
+    {
+      "id": 284,
+      "decision_id": 9,
+      "scope_id": 1,
+      "criterion": 3,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 285",
+      "headquarter_slug_3": "sede 286"
+    },
+    {
+      "id": 285,
+      "decision_id": 9,
+      "scope_id": 2,
+      "criterion": 4,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 286",
+      "headquarter_slug_3": "sede 287"
+    },
+    {
+      "id": 286,
+      "decision_id": 9,
+      "scope_id": 2,
+      "criterion": 4,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 287",
+      "headquarter_slug_3": "sede 288"
+    },
+    {
+      "id": 287,
+      "decision_id": 9,
+      "scope_id": 2,
+      "criterion": 4,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 288",
+      "headquarter_slug_3": "sede 289"
+    },
+    {
+      "id": 288,
+      "decision_id": 9,
+      "scope_id": 2,
+      "criterion": 5,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 289",
+      "headquarter_slug_3": "sede 290"
+    },
+    {
+      "id": 289,
+      "decision_id": 9,
+      "scope_id": 2,
+      "criterion": 5,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 290",
+      "headquarter_slug_3": "sede 291"
+    },
+    {
+      "id": 290,
+      "decision_id": 9,
+      "scope_id": 2,
+      "criterion": 5,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 291",
+      "headquarter_slug_3": "sede 292"
+    },
+    {
+      "id": 291,
+      "decision_id": 9,
+      "scope_id": 2,
+      "criterion": 6,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 292",
+      "headquarter_slug_3": "sede 293"
+    },
+    {
+      "id": 292,
+      "decision_id": 9,
+      "scope_id": 2,
+      "criterion": 6,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 293",
+      "headquarter_slug_3": "sede 294"
+    },
+    {
+      "id": 293,
+      "decision_id": 9,
+      "scope_id": 2,
+      "criterion": 6,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 294",
+      "headquarter_slug_3": "sede 295"
+    },
+    {
+      "id": 294,
+      "decision_id": 9,
+      "scope_id": 2,
+      "criterion": 7,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 295",
+      "headquarter_slug_3": "sede 296"
+    },
+    {
+      "id": 295,
+      "decision_id": 9,
+      "scope_id": 2,
+      "criterion": 7,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 296",
+      "headquarter_slug_3": "sede 297"
+    },
+    {
+      "id": 296,
+      "decision_id": 9,
+      "scope_id": 2,
+      "criterion": 7,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 297",
+      "headquarter_slug_3": "sede 298"
+    },
+    {
+      "id": 297,
+      "decision_id": 9,
+      "scope_id": 2,
+      "criterion": 8,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 298",
+      "headquarter_slug_3": "sede 299"
+    },
+    {
+      "id": 298,
+      "decision_id": 9,
+      "scope_id": 2,
+      "criterion": 8,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 299",
+      "headquarter_slug_3": "sede 300"
+    },
+    {
+      "id": 299,
+      "decision_id": 9,
+      "scope_id": 2,
+      "criterion": 8,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 300",
+      "headquarter_slug_3": "sede 301"
+    },
+    {
+      "id": 300,
+      "decision_id": 9,
+      "scope_id": 2,
+      "criterion": 9,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 301",
+      "headquarter_slug_3": "sede 302"
+    },
+    {
+      "id": 301,
+      "decision_id": 9,
+      "scope_id": 2,
+      "criterion": 9,
+      "font": 8,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 302",
+      "headquarter_slug_3": "sede 303"
+    },
+    {
+      "id": 302,
+      "decision_id": 9,
+      "scope_id": 2,
+      "criterion": 9,
+      "font": 11,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 303",
+      "headquarter_slug_3": "sede 304"
+    },
+    {
+      "id": 303,
+      "decision_id": 9,
+      "scope_id": 2,
+      "criterion": 9,
+      "font": 7,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 304",
+      "headquarter_slug_3": "sede 305"
+    },
+    {
+      "id": 304,
+      "decision_id": 9,
+      "scope_id": 2,
+      "criterion": 9,
+      "font": 6,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 305",
+      "headquarter_slug_3": "sede 306"
+    },
+    {
+      "id": 305,
+      "decision_id": 9,
+      "scope_id": 2,
+      "criterion": 9,
+      "font": 10,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 306",
+      "headquarter_slug_3": "sede 307"
+    },
+    {
+      "id": 306,
+      "decision_id": 9,
+      "scope_id": 2,
+      "criterion": 10,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 307",
+      "headquarter_slug_3": "sede 308"
+    },
+    {
+      "id": 307,
+      "decision_id": 9,
+      "scope_id": 2,
+      "criterion": 10,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 308",
+      "headquarter_slug_3": "sede 309"
+    },
+    {
+      "id": 308,
+      "decision_id": 9,
+      "scope_id": 2,
+      "criterion": 11,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 309",
+      "headquarter_slug_3": "sede 310"
+    },
+    {
+      "id": 309,
+      "decision_id": 9,
+      "scope_id": 2,
+      "criterion": 11,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 310",
+      "headquarter_slug_3": "sede 311"
+    },
+    {
+      "id": 310,
+      "decision_id": 9,
+      "scope_id": 3,
+      "criterion": 12,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 311",
+      "headquarter_slug_3": "sede 312"
+    },
+    {
+      "id": 311,
+      "decision_id": 9,
+      "scope_id": 3,
+      "criterion": 13,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 312",
+      "headquarter_slug_3": "sede 313"
+    },
+    {
+      "id": 312,
+      "decision_id": 9,
+      "scope_id": 3,
+      "criterion": 14,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 313",
+      "headquarter_slug_3": "sede 314"
+    },
+    {
+      "id": 313,
+      "decision_id": 9,
+      "scope_id": 3,
+      "criterion": 14,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 314",
+      "headquarter_slug_3": "sede 315"
+    },
+    {
+      "id": 314,
+      "decision_id": 9,
+      "scope_id": 3,
+      "criterion": 14,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 315",
+      "headquarter_slug_3": "sede 316"
+    },
+    {
+      "id": 315,
+      "decision_id": 9,
+      "scope_id": 3,
+      "criterion": 15,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 316",
+      "headquarter_slug_3": "sede 317"
+    },
+    {
+      "id": 316,
+      "decision_id": 10,
+      "scope_id": 1,
+      "criterion": 1,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 317",
+      "headquarter_slug_3": "sede 318"
+    },
+    {
+      "id": 317,
+      "decision_id": 10,
+      "scope_id": 1,
+      "criterion": 1,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 318",
+      "headquarter_slug_3": "sede 319"
+    },
+    {
+      "id": 318,
+      "decision_id": 10,
+      "scope_id": 1,
+      "criterion": 1,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 319",
+      "headquarter_slug_3": "sede 320"
+    },
+    {
+      "id": 319,
+      "decision_id": 10,
+      "scope_id": 1,
+      "criterion": 2,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 320",
+      "headquarter_slug_3": "sede 321"
+    },
+    {
+      "id": 320,
+      "decision_id": 10,
+      "scope_id": 1,
+      "criterion": 2,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 321",
+      "headquarter_slug_3": "sede 322"
+    },
+    {
+      "id": 321,
+      "decision_id": 10,
+      "scope_id": 1,
+      "criterion": 2,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 322",
+      "headquarter_slug_3": "sede 323"
+    },
+    {
+      "id": 322,
+      "decision_id": 10,
+      "scope_id": 1,
+      "criterion": 3,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 323",
+      "headquarter_slug_3": "sede 324"
+    },
+    {
+      "id": 323,
+      "decision_id": 10,
+      "scope_id": 1,
+      "criterion": 3,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 324",
+      "headquarter_slug_3": "sede 325"
+    },
+    {
+      "id": 324,
+      "decision_id": 10,
+      "scope_id": 1,
+      "criterion": 3,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 325",
+      "headquarter_slug_3": "sede 326"
+    },
+    {
+      "id": 325,
+      "decision_id": 10,
+      "scope_id": 2,
+      "criterion": 4,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 326",
+      "headquarter_slug_3": "sede 327"
+    },
+    {
+      "id": 326,
+      "decision_id": 10,
+      "scope_id": 2,
+      "criterion": 4,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 327",
+      "headquarter_slug_3": "sede 328"
+    },
+    {
+      "id": 327,
+      "decision_id": 10,
+      "scope_id": 2,
+      "criterion": 4,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 328",
+      "headquarter_slug_3": "sede 329"
+    },
+    {
+      "id": 328,
+      "decision_id": 10,
+      "scope_id": 2,
+      "criterion": 5,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 329",
+      "headquarter_slug_3": "sede 330"
+    },
+    {
+      "id": 329,
+      "decision_id": 10,
+      "scope_id": 2,
+      "criterion": 5,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 330",
+      "headquarter_slug_3": "sede 331"
+    },
+    {
+      "id": 330,
+      "decision_id": 10,
+      "scope_id": 2,
+      "criterion": 5,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 331",
+      "headquarter_slug_3": "sede 332"
+    },
+    {
+      "id": 331,
+      "decision_id": 10,
+      "scope_id": 2,
+      "criterion": 6,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 332",
+      "headquarter_slug_3": "sede 333"
+    },
+    {
+      "id": 332,
+      "decision_id": 10,
+      "scope_id": 2,
+      "criterion": 6,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 333",
+      "headquarter_slug_3": "sede 334"
+    },
+    {
+      "id": 333,
+      "decision_id": 10,
+      "scope_id": 2,
+      "criterion": 6,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 334",
+      "headquarter_slug_3": "sede 335"
+    },
+    {
+      "id": 334,
+      "decision_id": 10,
+      "scope_id": 2,
+      "criterion": 7,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 335",
+      "headquarter_slug_3": "sede 336"
+    },
+    {
+      "id": 335,
+      "decision_id": 10,
+      "scope_id": 2,
+      "criterion": 7,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 336",
+      "headquarter_slug_3": "sede 337"
+    },
+    {
+      "id": 336,
+      "decision_id": 10,
+      "scope_id": 2,
+      "criterion": 7,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 337",
+      "headquarter_slug_3": "sede 338"
+    },
+    {
+      "id": 337,
+      "decision_id": 10,
+      "scope_id": 2,
+      "criterion": 8,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 338",
+      "headquarter_slug_3": "sede 339"
+    },
+    {
+      "id": 338,
+      "decision_id": 10,
+      "scope_id": 2,
+      "criterion": 8,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 339",
+      "headquarter_slug_3": "sede 340"
+    },
+    {
+      "id": 339,
+      "decision_id": 10,
+      "scope_id": 2,
+      "criterion": 9,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 340",
+      "headquarter_slug_3": "sede 341"
+    },
+    {
+      "id": 340,
+      "decision_id": 10,
+      "scope_id": 2,
+      "criterion": 9,
+      "font": 8,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 341",
+      "headquarter_slug_3": "sede 342"
+    },
+    {
+      "id": 341,
+      "decision_id": 10,
+      "scope_id": 2,
+      "criterion": 9,
+      "font": 11,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 342",
+      "headquarter_slug_3": "sede 343"
+    },
+    {
+      "id": 342,
+      "decision_id": 10,
+      "scope_id": 2,
+      "criterion": 9,
+      "font": 7,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 343",
+      "headquarter_slug_3": "sede 344"
+    },
+    {
+      "id": 343,
+      "decision_id": 10,
+      "scope_id": 2,
+      "criterion": 9,
+      "font": 6,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 344",
+      "headquarter_slug_3": "sede 345"
+    },
+    {
+      "id": 344,
+      "decision_id": 10,
+      "scope_id": 2,
+      "criterion": 9,
+      "font": 10,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 345",
+      "headquarter_slug_3": "sede 346"
+    },
+    {
+      "id": 345,
+      "decision_id": 10,
+      "scope_id": 2,
+      "criterion": 9,
+      "font": 12,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 346",
+      "headquarter_slug_3": "sede 347"
+    },
+    {
+      "id": 346,
+      "decision_id": 10,
+      "scope_id": 2,
+      "criterion": 10,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 347",
+      "headquarter_slug_3": "sede 348"
+    },
+    {
+      "id": 347,
+      "decision_id": 10,
+      "scope_id": 2,
+      "criterion": 10,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 348",
+      "headquarter_slug_3": "sede 349"
+    },
+    {
+      "id": 348,
+      "decision_id": 10,
+      "scope_id": 2,
+      "criterion": 11,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 349",
+      "headquarter_slug_3": "sede 350"
+    },
+    {
+      "id": 349,
+      "decision_id": 10,
+      "scope_id": 2,
+      "criterion": 11,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 350",
+      "headquarter_slug_3": "sede 351"
+    },
+    {
+      "id": 350,
+      "decision_id": 10,
+      "scope_id": 3,
+      "criterion": 12,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 351",
+      "headquarter_slug_3": "sede 352"
+    },
+    {
+      "id": 351,
+      "decision_id": 10,
+      "scope_id": 3,
+      "criterion": 13,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 352",
+      "headquarter_slug_3": "sede 353"
+    },
+    {
+      "id": 352,
+      "decision_id": 10,
+      "scope_id": 3,
+      "criterion": 14,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 353",
+      "headquarter_slug_3": "sede 354"
+    },
+    {
+      "id": 353,
+      "decision_id": 10,
+      "scope_id": 3,
+      "criterion": 14,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 354",
+      "headquarter_slug_3": "sede 355"
+    },
+    {
+      "id": 354,
+      "decision_id": 10,
+      "scope_id": 3,
+      "criterion": 14,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 355",
+      "headquarter_slug_3": "sede 356"
+    },
+    {
+      "id": 355,
+      "decision_id": 10,
+      "scope_id": 3,
+      "criterion": 15,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 356",
+      "headquarter_slug_3": "sede 357"
+    },
+    {
+      "id": 356,
+      "decision_id": 11,
+      "scope_id": 1,
+      "criterion": 1,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 357",
+      "headquarter_slug_3": "sede 358"
+    },
+    {
+      "id": 357,
+      "decision_id": 11,
+      "scope_id": 1,
+      "criterion": 1,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 358",
+      "headquarter_slug_3": "sede 359"
+    },
+    {
+      "id": 358,
+      "decision_id": 11,
+      "scope_id": 1,
+      "criterion": 1,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 359",
+      "headquarter_slug_3": "sede 360"
+    },
+    {
+      "id": 359,
+      "decision_id": 11,
+      "scope_id": 1,
+      "criterion": 2,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 360",
+      "headquarter_slug_3": "sede 361"
+    },
+    {
+      "id": 360,
+      "decision_id": 11,
+      "scope_id": 1,
+      "criterion": 2,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 361",
+      "headquarter_slug_3": "sede 362"
+    },
+    {
+      "id": 361,
+      "decision_id": 11,
+      "scope_id": 1,
+      "criterion": 2,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 362",
+      "headquarter_slug_3": "sede 363"
+    },
+    {
+      "id": 362,
+      "decision_id": 11,
+      "scope_id": 2,
+      "criterion": 5,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 363",
+      "headquarter_slug_3": "sede 364"
+    },
+    {
+      "id": 363,
+      "decision_id": 11,
+      "scope_id": 2,
+      "criterion": 5,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 364",
+      "headquarter_slug_3": "sede 365"
+    },
+    {
+      "id": 364,
+      "decision_id": 11,
+      "scope_id": 2,
+      "criterion": 5,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 365",
+      "headquarter_slug_3": "sede 366"
+    },
+    {
+      "id": 365,
+      "decision_id": 11,
+      "scope_id": 2,
+      "criterion": 6,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 366",
+      "headquarter_slug_3": "sede 367"
+    },
+    {
+      "id": 366,
+      "decision_id": 11,
+      "scope_id": 2,
+      "criterion": 6,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 367",
+      "headquarter_slug_3": "sede 368"
+    },
+    {
+      "id": 367,
+      "decision_id": 11,
+      "scope_id": 2,
+      "criterion": 6,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 368",
+      "headquarter_slug_3": "sede 369"
+    },
+    {
+      "id": 368,
+      "decision_id": 11,
+      "scope_id": 2,
+      "criterion": 7,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 369",
+      "headquarter_slug_3": "sede 370"
+    },
+    {
+      "id": 369,
+      "decision_id": 11,
+      "scope_id": 2,
+      "criterion": 7,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 370",
+      "headquarter_slug_3": "sede 371"
+    },
+    {
+      "id": 370,
+      "decision_id": 11,
+      "scope_id": 2,
+      "criterion": 7,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 371",
+      "headquarter_slug_3": "sede 372"
+    },
+    {
+      "id": 371,
+      "decision_id": 11,
+      "scope_id": 2,
+      "criterion": 9,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 372",
+      "headquarter_slug_3": "sede 373"
+    },
+    {
+      "id": 372,
+      "decision_id": 11,
+      "scope_id": 2,
+      "criterion": 9,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 373",
+      "headquarter_slug_3": "sede 374"
+    },
+    {
+      "id": 373,
+      "decision_id": 11,
+      "scope_id": 2,
+      "criterion": 9,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 374",
+      "headquarter_slug_3": "sede 375"
+    },
+    {
+      "id": 374,
+      "decision_id": 11,
+      "scope_id": 2,
+      "criterion": 9,
+      "font": 7,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 375",
+      "headquarter_slug_3": "sede 376"
+    },
+    {
+      "id": 375,
+      "decision_id": 11,
+      "scope_id": 2,
+      "criterion": 9,
+      "font": 6,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 376",
+      "headquarter_slug_3": "sede 377"
+    },
+    {
+      "id": 376,
+      "decision_id": 11,
+      "scope_id": 2,
+      "criterion": 10,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 377",
+      "headquarter_slug_3": "sede 378"
+    },
+    {
+      "id": 377,
+      "decision_id": 11,
+      "scope_id": 2,
+      "criterion": 10,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 378",
+      "headquarter_slug_3": "sede 379"
+    },
+    {
+      "id": 378,
+      "decision_id": 11,
+      "scope_id": 2,
+      "criterion": 11,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 379",
+      "headquarter_slug_3": "sede 380"
+    },
+    {
+      "id": 379,
+      "decision_id": 11,
+      "scope_id": 2,
+      "criterion": 11,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 380",
+      "headquarter_slug_3": "sede 381"
+    },
+    {
+      "id": 380,
+      "decision_id": 11,
+      "scope_id": 3,
+      "criterion": 12,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 381",
+      "headquarter_slug_3": "sede 382"
+    },
+    {
+      "id": 381,
+      "decision_id": 11,
+      "scope_id": 3,
+      "criterion": 13,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 382",
+      "headquarter_slug_3": "sede 383"
+    },
+    {
+      "id": 382,
+      "decision_id": 11,
+      "scope_id": 3,
+      "criterion": 14,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 383",
+      "headquarter_slug_3": "sede 384"
+    },
+    {
+      "id": 383,
+      "decision_id": 11,
+      "scope_id": 3,
+      "criterion": 14,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 384",
+      "headquarter_slug_3": "sede 385"
+    },
+    {
+      "id": 384,
+      "decision_id": 11,
+      "scope_id": 3,
+      "criterion": 14,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 385",
+      "headquarter_slug_3": "sede 386"
+    },
+    {
+      "id": 385,
+      "decision_id": 11,
+      "scope_id": 3,
+      "criterion": 15,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 386",
+      "headquarter_slug_3": "sede 387"
+    },
+    {
+      "id": 386,
+      "decision_id": 12,
+      "scope_id": 1,
+      "criterion": 1,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 387",
+      "headquarter_slug_3": "sede 388"
+    },
+    {
+      "id": 387,
+      "decision_id": 12,
+      "scope_id": 1,
+      "criterion": 1,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 388",
+      "headquarter_slug_3": "sede 389"
+    },
+    {
+      "id": 388,
+      "decision_id": 12,
+      "scope_id": 1,
+      "criterion": 1,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 389",
+      "headquarter_slug_3": "sede 390"
+    },
+    {
+      "id": 389,
+      "decision_id": 12,
+      "scope_id": 1,
+      "criterion": 3,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 390",
+      "headquarter_slug_3": "sede 391"
+    },
+    {
+      "id": 390,
+      "decision_id": 12,
+      "scope_id": 1,
+      "criterion": 3,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 391",
+      "headquarter_slug_3": "sede 392"
+    },
+    {
+      "id": 391,
+      "decision_id": 12,
+      "scope_id": 1,
+      "criterion": 3,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 392",
+      "headquarter_slug_3": "sede 393"
+    },
+    {
+      "id": 392,
+      "decision_id": 12,
+      "scope_id": 2,
+      "criterion": 5,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 393",
+      "headquarter_slug_3": "sede 394"
+    },
+    {
+      "id": 393,
+      "decision_id": 12,
+      "scope_id": 2,
+      "criterion": 5,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 394",
+      "headquarter_slug_3": "sede 395"
+    },
+    {
+      "id": 394,
+      "decision_id": 12,
+      "scope_id": 2,
+      "criterion": 5,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 395",
+      "headquarter_slug_3": "sede 396"
+    },
+    {
+      "id": 395,
+      "decision_id": 12,
+      "scope_id": 2,
+      "criterion": 6,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 396",
+      "headquarter_slug_3": "sede 397"
+    },
+    {
+      "id": 396,
+      "decision_id": 12,
+      "scope_id": 2,
+      "criterion": 6,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 397",
+      "headquarter_slug_3": "sede 398"
+    },
+    {
+      "id": 397,
+      "decision_id": 12,
+      "scope_id": 2,
+      "criterion": 6,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 398",
+      "headquarter_slug_3": "sede 399"
+    },
+    {
+      "id": 398,
+      "decision_id": 12,
+      "scope_id": 2,
+      "criterion": 7,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 399",
+      "headquarter_slug_3": "sede 400"
+    },
+    {
+      "id": 399,
+      "decision_id": 12,
+      "scope_id": 2,
+      "criterion": 7,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 400",
+      "headquarter_slug_3": "sede 401"
+    },
+    {
+      "id": 400,
+      "decision_id": 12,
+      "scope_id": 2,
+      "criterion": 7,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 401",
+      "headquarter_slug_3": "sede 402"
+    },
+    {
+      "id": 401,
+      "decision_id": 12,
+      "scope_id": 2,
+      "criterion": 10,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 402",
+      "headquarter_slug_3": "sede 403"
+    },
+    {
+      "id": 402,
+      "decision_id": 12,
+      "scope_id": 2,
+      "criterion": 10,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 403",
+      "headquarter_slug_3": "sede 404"
+    },
+    {
+      "id": 403,
+      "decision_id": 12,
+      "scope_id": 2,
+      "criterion": 11,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 404",
+      "headquarter_slug_3": "sede 405"
+    },
+    {
+      "id": 404,
+      "decision_id": 12,
+      "scope_id": 2,
+      "criterion": 11,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 405",
+      "headquarter_slug_3": "sede 406"
+    },
+    {
+      "id": 405,
+      "decision_id": 12,
+      "scope_id": 3,
+      "criterion": 13,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 406",
+      "headquarter_slug_3": "sede 407"
+    },
+    {
+      "id": 406,
+      "decision_id": 12,
+      "scope_id": 3,
+      "criterion": 15,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 407",
+      "headquarter_slug_3": "sede 408"
+    },
+    {
+      "id": 407,
+      "decision_id": 13,
+      "scope_id": 1,
+      "criterion": 1,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 408",
+      "headquarter_slug_3": "sede 409"
+    },
+    {
+      "id": 408,
+      "decision_id": 13,
+      "scope_id": 1,
+      "criterion": 1,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 409",
+      "headquarter_slug_3": "sede 410"
+    },
+    {
+      "id": 409,
+      "decision_id": 13,
+      "scope_id": 1,
+      "criterion": 1,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 410",
+      "headquarter_slug_3": "sede 411"
+    },
+    {
+      "id": 410,
+      "decision_id": 13,
+      "scope_id": 2,
+      "criterion": 5,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 411",
+      "headquarter_slug_3": "sede 412"
+    },
+    {
+      "id": 411,
+      "decision_id": 13,
+      "scope_id": 2,
+      "criterion": 5,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 412",
+      "headquarter_slug_3": "sede 413"
+    },
+    {
+      "id": 412,
+      "decision_id": 13,
+      "scope_id": 2,
+      "criterion": 5,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 413",
+      "headquarter_slug_3": "sede 414"
+    },
+    {
+      "id": 413,
+      "decision_id": 13,
+      "scope_id": 2,
+      "criterion": 6,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 414",
+      "headquarter_slug_3": "sede 415"
+    },
+    {
+      "id": 414,
+      "decision_id": 13,
+      "scope_id": 2,
+      "criterion": 6,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 415",
+      "headquarter_slug_3": "sede 416"
+    },
+    {
+      "id": 415,
+      "decision_id": 13,
+      "scope_id": 2,
+      "criterion": 6,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 416",
+      "headquarter_slug_3": "sede 417"
+    },
+    {
+      "id": 416,
+      "decision_id": 13,
+      "scope_id": 2,
+      "criterion": 7,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 417",
+      "headquarter_slug_3": "sede 418"
+    },
+    {
+      "id": 417,
+      "decision_id": 13,
+      "scope_id": 2,
+      "criterion": 7,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 418",
+      "headquarter_slug_3": "sede 419"
+    },
+    {
+      "id": 418,
+      "decision_id": 13,
+      "scope_id": 2,
+      "criterion": 7,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 419",
+      "headquarter_slug_3": "sede 420"
+    },
+    {
+      "id": 419,
+      "decision_id": 13,
+      "scope_id": 2,
+      "criterion": 8,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 420",
+      "headquarter_slug_3": "sede 421"
+    },
+    {
+      "id": 420,
+      "decision_id": 13,
+      "scope_id": 2,
+      "criterion": 8,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 421",
+      "headquarter_slug_3": "sede 422"
+    },
+    {
+      "id": 421,
+      "decision_id": 13,
+      "scope_id": 2,
+      "criterion": 8,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 422",
+      "headquarter_slug_3": "sede 423"
+    },
+    {
+      "id": 422,
+      "decision_id": 13,
+      "scope_id": 2,
+      "criterion": 9,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 423",
+      "headquarter_slug_3": "sede 424"
+    },
+    {
+      "id": 423,
+      "decision_id": 13,
+      "scope_id": 2,
+      "criterion": 9,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 424",
+      "headquarter_slug_3": "sede 425"
+    },
+    {
+      "id": 424,
+      "decision_id": 13,
+      "scope_id": 2,
+      "criterion": 9,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 425",
+      "headquarter_slug_3": "sede 426"
+    },
+    {
+      "id": 425,
+      "decision_id": 13,
+      "scope_id": 2,
+      "criterion": 9,
+      "font": 4,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 426",
+      "headquarter_slug_3": "sede 427"
+    },
+    {
+      "id": 426,
+      "decision_id": 13,
+      "scope_id": 2,
+      "criterion": 9,
+      "font": 5,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 427",
+      "headquarter_slug_3": "sede 428"
+    },
+    {
+      "id": 427,
+      "decision_id": 13,
+      "scope_id": 2,
+      "criterion": 9,
+      "font": 9,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 428",
+      "headquarter_slug_3": "sede 429"
+    },
+    {
+      "id": 428,
+      "decision_id": 13,
+      "scope_id": 2,
+      "criterion": 9,
+      "font": 8,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 429",
+      "headquarter_slug_3": "sede 430"
+    },
+    {
+      "id": 429,
+      "decision_id": 13,
+      "scope_id": 2,
+      "criterion": 9,
+      "font": 11,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 430",
+      "headquarter_slug_3": "sede 431"
+    },
+    {
+      "id": 430,
+      "decision_id": 13,
+      "scope_id": 2,
+      "criterion": 9,
+      "font": 6,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 431",
+      "headquarter_slug_3": "sede 432"
+    },
+    {
+      "id": 431,
+      "decision_id": 13,
+      "scope_id": 2,
+      "criterion": 10,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 432",
+      "headquarter_slug_3": "sede 433"
+    },
+    {
+      "id": 432,
+      "decision_id": 13,
+      "scope_id": 2,
+      "criterion": 10,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 433",
+      "headquarter_slug_3": "sede 434"
+    },
+    {
+      "id": 433,
+      "decision_id": 13,
+      "scope_id": 2,
+      "criterion": 11,
+      "font": 2,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 434",
+      "headquarter_slug_3": "sede 435"
+    },
+    {
+      "id": 434,
+      "decision_id": 13,
+      "scope_id": 2,
+      "criterion": 11,
+      "font": 3,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 435",
+      "headquarter_slug_3": "sede 436"
+    },
+    {
+      "id": 435,
+      "decision_id": 13,
+      "scope_id": 3,
+      "criterion": 13,
+      "font": 1,
+      "headquarter_slug_1": "sede 1",
+      "headquarter_slug_2": "sede 436",
+      "headquarter_slug_3": "sede 437"
+    }
+]

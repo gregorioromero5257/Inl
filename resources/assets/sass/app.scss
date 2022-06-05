@@ -1,0 +1,324 @@
+// Fonts
+// @import url('https://fonts.googleapis.com/css?family=Poppins');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,600,700');
+// Variables
+@import 'variables';
+$fa-font-path: "../webfonts";
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+@import '~admin-lte/dist/css/adminlte.css';
+@import '~@fortawesome/fontawesome-free/scss/fontawesome.scss';
+@import '~@fortawesome/fontawesome-free/scss/solid.scss';
+@import '~@fortawesome/fontawesome-free/scss/regular.scss';
+@import '~@fortawesome/fontawesome-free/scss/brands.scss';
+// vue Multiselect
+@import '~vue-multiselect/dist/vue-multiselect.min.css';
+@import "~vue-wysiwyg/dist/vueWysiwyg.css";
+
+
+.navbar-laravel {
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+}
+.router-link-exact-active{
+    background-color: #3f51b5;
+    color:#fff !important;
+}
+
+.pointer {
+    cursor: pointer
+}
+
+#alpha-background {
+    background: rgb(229,228,242);
+    background: linear-gradient(90deg, rgba(207,216,229,1) 0%, rgba(230,234,240,1) 100%);
+
+    // background: linear-gradient(
+    //     (45deg , rgba(207, 216, 229, 0.99)),
+    //     rgba(207, 216, 229, 0.75)
+    //   ),
+    // // background-color: rgba(207, 216, 229 , 0.8) !important;
+    // // background-color :linear-gradient(to right, rgba(207,216,229,0.9), rgb(230, 234, 240)) !important;
+}
+
+#alpha-background::before {
+    background-image: url('/img/assets/background_login_web.png');
+    background-size: 45% 90%;
+    background-position: 100% 100%;
+    background-repeat: no-repeat;
+    content: "";
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -2;
+    opacity: 0.1;
+    @media  all and ( max-width : 1024px) {
+        background-size: 67% 90% !important;
+    }
+    }
+
+
+@media print {
+    .nav.nav-tabs li:not(.active){
+        display: none;
+    }
+    .invoice{
+    	padding: 10px 20px;
+    }
+
+    .invoice{
+		background-position: center center;
+		background-repeat: no-repeat;
+
+	}
+	// .table-responsive table{
+	// 	background-color: transparent !important;
+	// }
+
+}
+
+@page {
+    margin: 0;
+}
+
+.breadcrumb-item + .breadcrumb-item::before {
+    font-family: 'Open Sans Condensed', sans-serif;
+    content: ">" !important;
+}
+
+.breadcrumb-item.active {
+    color: #000000 !important;
+}
+
+.card {
+    background-color: #ffffff !important;
+    border-radius: 5px !important;
+}
+
+.btn-round {
+    border-radius: 2em;
+}
+
+.form-control-color {
+    border: none;
+    height: calc(2em + 0.75rem + 2px);
+}
+
+.w80{
+    width: 80%;
+}
+
+.hbig {
+    height: 3.5em;
+}
+
+.mh-90 {
+    min-height: 90vh;
+}
+
+.footer-inl {
+    padding: 15px;
+    border-top: 1px solid #dee2e6;
+    background: #ffffff;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: lightgray !important;
+}
+
+// h1, h2, h3 , h4, h5, h6  {
+//   font-family: $font-family-sans-serif-open-sans !important;
+// }
+
+h1, h2, h3, h4, h5, h6,
+.h1, .h2, .h3, .h4, .h5, .h6 {
+  font-family: 'Open Sans Condensed', sans-serif !important;
+}
+
+// input,
+// button,
+// select,
+// optgroup,
+// textarea {
+//   font-family: 'Open Sans Condensed' !important;
+// }
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6 {
+  font-family: 'Open Sans Condensed', sans-serif !important;
+}
+
+
+#youtube-player-1 {
+    width: 100%;
+}
+
+.card-header {
+    p{
+        margin-bottom: 0px !important;
+    }
+}
+
+.rounded-button {
+    border: 1px solid;
+    border-radius: 25px;
+    margin-bottom: 1rem;
+    &:hover{
+        text-decoration: none;
+        cursor: pointer;
+         background: rgba(19 , 56,94, 0.07) !important;
+    }
+}
+
+.btn-primary {
+    min-width: 200px;
+}
+
+.btn-secondary {
+    min-width: 200px;
+}
+
+.ambit-card {
+    background-color: transparent !important;
+    border-radius: 0px !important;
+    box-shadow: none !important;
+    :hover {
+        box-shadow: none !important;
+    }
+    @include media-breakpoint-up(md) {
+        border-bottom: 0px !important;
+    }
+}
+
+.no-border-left {
+    @include media-breakpoint-up(md) {
+        border-left: 0px !important;
+    }
+}
+
+.no-border-right {
+    @include media-breakpoint-up(md) {
+        border-right: 0px !important;
+    }
+}
+
+.badge-pill {
+    padding-right: 0.6em;
+    padding-left: 0.6em;
+    padding-top: 0.7em;
+    padding-bottom: 0.65em;
+    border-radius: 10rem;
+}
+
+.rounded-btn {
+    border-radius: 40px;
+    background: transparent;
+    transition: all 0.3s ease 0s;
+    min-width: 100%;
+    max-width: 100%;
+    &:hover{
+        background: rgb(19, 56, 93) !important;
+    }
+    @include media-breakpoint-only(sm) {
+        font-size: 0.5rem;
+    }
+
+    @include media-breakpoint-only(md) {
+        font-size: 0.7rem;
+    }
+
+    @include media-breakpoint-only(lg) {
+        font-size: 0.8rem;
+    }
+    @include media-breakpoint-up(xl) {
+        font-size: 0.9rem;
+    }
+}
+//
+// .logo-login{
+//     max-height: 500px;
+//     width: 12rem;
+//     height: 4rem;
+// }
+
+
+@media only screen and (max-width: 320px) {
+  .logo-login {
+    // max-height: 500px;
+    // width: 12rem;
+    height: 3rem;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  .logo-login {
+    // max-height: 500px;
+    // width: 12rem;
+    height: 4rem;
+  }
+}
+
+
+@media only screen and (max-width: 600px) {
+  .logo-login {
+    // max-height: 500px;
+    // width: 12rem;
+    height: 4.5rem;
+  }
+}
+
+
+@media only screen and (max-width: 768px) {
+  .logo-login {
+    // max-height: 500px;
+    // width: 12rem;
+    height: 5rem;
+  }
+}
+
+@media only screen and (max-width: 992px)  {
+  .logo-login {
+    // max-height: 500px;
+    // width: 12rem;
+    height: 5rem;
+  }
+}
+
+@media only screen and (max-width: 1999px)  {
+  .logo-login {
+    // max-height: 500px;
+    // width: 12rem;
+    height: 5rem;
+  }
+}
+
+@media only screen and (min-width: 1200px) {
+  .logo-login {
+    // max-height: 500px;
+    // width: 12rem;
+    height: 5.2rem;
+  }
+}
+
+.hr-height {
+background-color: #13385d;
+height: 2px;
+}
+
+.uppercase {
+  text-transform: uppercase;
+  font-weight: bold;
+}

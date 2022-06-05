@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Grupo de enfoque Agente Ministerio Público"
+    },
+    {
+        "id": 2,
+        "name": "Grupo de enfoque Agente Ministerio Público, Superior Jerárquico"
+    },
+    {
+        "id": 3,
+        "name": "Grupo de enfoque Agente Ministerio Público, Mando"
+    },
+    {
+        "id": 4,
+        "name": "Grupo de enfoque con Policía Primer Respondiente"
+    },
+    {
+        "id": 5,
+        "name": "Grupo de enfoque con Policía Investigadora"
+    },
+    {
+        "id": 6,
+        "name": "Grupo de enfoque con Asesores Jurídicos"
+    },
+    {
+        "id": 7,
+        "name": "Grupo de enfoque con Defensores Públicos"
+    },
+    {
+        "id": 8,
+        "name": "Grupo de enfoque con Jueces"
+    },
+    {
+        "id": 9,
+        "name": "Grupo de enfoque con Peritos"
+    },
+    {
+        "id": 10,
+        "name": "Grupo de enfoque con Facilitadores MASC"
+    },
+    {
+        "id": 11,
+        "name": "Entrevista con Gestión Judicial"
+    },
+    {
+        "id": 12,
+        "name": "Grupo de enfoque con Analistas UMECA"
+    },
+]

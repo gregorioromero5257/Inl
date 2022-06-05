@@ -1,0 +1,174 @@
+<?php
+
+use Illuminate\Support\Facades\Schema;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Database\Migrations\Migration;
+
+class CreateQuantitativeSourcesTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('quantitative_sources', function (Blueprint $table) {
+            $table->increments('id');
+            $table->integer('state_id')->nullable();
+            $table->integer('variable1_2018')->nullable();
+            $table->integer('variable2_2018')->nullable();
+            $table->integer('variable3_2018')->nullable();
+            $table->integer('variable4_2018')->nullable();
+            $table->integer('variable5_2018')->nullable();
+            $table->integer('variable6_2018')->nullable();
+            $table->integer('variable7_2018')->nullable();
+            $table->integer('variable8_2018')->nullable();
+            $table->integer('variable9_2018')->nullable();
+            $table->integer('variable10_2018')->nullable();
+            $table->integer('variable11_2018')->nullable();
+            $table->integer('variable12_2018')->nullable();
+            $table->integer('variable13_2018')->nullable();
+            $table->integer('variable14_2018')->nullable();
+            $table->integer('variable15_2018')->nullable();
+            $table->integer('variable16_2018')->nullable();
+            $table->integer('variable17_2018')->nullable();
+            $table->integer('variable18_2018')->nullable();
+            $table->integer('variable19_2018')->nullable();
+            $table->integer('variable20_2018')->nullable();
+            $table->integer('variable21_2018')->nullable();
+            $table->integer('variable22_2018')->nullable();
+            $table->integer('variable23_2018')->nullable();
+            $table->integer('variable24_2018')->nullable();
+            $table->integer('variable25_2018')->nullable();
+            $table->integer('variable26_2018')->nullable();
+            $table->integer('variable27_2018')->nullable();
+            $table->integer('variable28_2018')->nullable();
+            $table->integer('variable29_2018')->nullable();
+            $table->integer('variable30_2018')->nullable();
+            $table->integer('variable31_2018')->nullable();
+            $table->integer('variable32_2018')->nullable();
+            $table->integer('variable33_2018')->nullable();
+            $table->integer('variable34_2018')->nullable();
+            $table->integer('variable35_2018')->nullable();
+            $table->integer('checked1_2018')->default(0);
+            $table->integer('checked2_2018')->default(0);
+            $table->integer('checked3_2018')->default(0);
+            $table->integer('checked4_2018')->default(0);
+            $table->integer('checked5_2018')->default(0);
+            $table->integer('checked6_2018')->default(0);
+            $table->integer('checked7_2018')->default(0);
+            $table->integer('checked8_2018')->default(0);
+            $table->integer('checked9_2018')->default(0);
+            $table->integer('checked10_2018')->default(0);
+            $table->integer('checked11_2018')->default(0);
+            $table->integer('checked12_2018')->default(0);
+            $table->integer('checked13_2018')->default(0);
+            $table->integer('checked14_2018')->default(0);
+            $table->integer('checked15_2018')->default(0);
+            $table->integer('checked16_2018')->default(0);
+            $table->integer('checked17_2018')->default(0);
+            $table->integer('checked18_2018')->default(0);
+            $table->integer('checked19_2018')->default(0);
+            $table->integer('checked20_2018')->default(0);
+            $table->integer('checked21_2018')->default(0);
+            $table->integer('checked22_2018')->default(0);
+            $table->integer('checked23_2018')->default(0);
+            $table->integer('checked24_2018')->default(0);
+            $table->integer('checked25_2018')->default(0);
+            $table->integer('checked26_2018')->default(0);
+            $table->integer('checked27_2018')->default(0);
+            $table->integer('checked28_2018')->default(0);
+            $table->integer('checked29_2018')->default(0);
+            $table->integer('checked30_2018')->default(0);
+            $table->integer('checked31_2018')->default(0);
+            $table->integer('checked32_2018')->default(0);
+            $table->integer('checked33_2018')->default(0);
+            $table->integer('checked34_2018')->default(0);
+            $table->integer('checked35_2018')->default(0);
+
+
+            $table->integer('variable1_2017')->nullable();
+            $table->integer('variable2_2017')->nullable();
+            $table->integer('variable3_2017')->nullable();
+            $table->integer('variable4_2017')->nullable();
+            $table->integer('variable5_2017')->nullable();
+            $table->integer('variable6_2017')->nullable();
+            $table->integer('variable7_2017')->nullable();
+            $table->integer('variable8_2017')->nullable();
+            $table->integer('variable9_2017')->nullable();
+            $table->integer('variable10_2017')->nullable();
+            $table->integer('variable11_2017')->nullable();
+            $table->integer('variable12_2017')->nullable();
+            $table->integer('variable13_2017')->nullable();
+            $table->integer('variable14_2017')->nullable();
+            $table->integer('variable15_2017')->nullable();
+            $table->integer('variable16_2017')->nullable();
+            $table->integer('variable17_2017')->nullable();
+            $table->integer('variable18_2017')->nullable();
+            $table->integer('variable19_2017')->nullable();
+            $table->integer('variable20_2017')->nullable();
+            $table->integer('variable21_2017')->nullable();
+            $table->integer('variable22_2017')->nullable();
+            $table->integer('variable23_2017')->nullable();
+            $table->integer('variable24_2017')->nullable();
+            $table->integer('variable25_2017')->nullable();
+            $table->integer('variable26_2017')->nullable();
+            $table->integer('variable27_2017')->nullable();
+            $table->integer('variable28_2017')->nullable();
+            $table->integer('variable29_2017')->nullable();
+            $table->integer('variable30_2017')->nullable();
+            $table->integer('variable31_2017')->nullable();
+            $table->integer('variable32_2017')->nullable();
+            $table->integer('variable33_2017')->nullable();
+            $table->integer('variable34_2017')->nullable();
+            $table->integer('variable35_2017')->nullable();
+            $table->integer('checked1_2017')->default(0);
+            $table->integer('checked2_2017')->default(0);
+            $table->integer('checked3_2017')->default(0);
+            $table->integer('checked4_2017')->default(0);
+            $table->integer('checked5_2017')->default(0);
+            $table->integer('checked6_2017')->default(0);
+            $table->integer('checked7_2017')->default(0);
+            $table->integer('checked8_2017')->default(0);
+            $table->integer('checked9_2017')->default(0);
+            $table->integer('checked10_2017')->default(0);
+            $table->integer('checked11_2017')->default(0);
+            $table->integer('checked12_2017')->default(0);
+            $table->integer('checked13_2017')->default(0);
+            $table->integer('checked14_2017')->default(0);
+            $table->integer('checked15_2017')->default(0);
+            $table->integer('checked16_2017')->default(0);
+            $table->integer('checked17_2017')->default(0);
+            $table->integer('checked18_2017')->default(0);
+            $table->integer('checked19_2017')->default(0);
+            $table->integer('checked20_2017')->default(0);
+            $table->integer('checked21_2017')->default(0);
+            $table->integer('checked22_2017')->default(0);
+            $table->integer('checked23_2017')->default(0);
+            $table->integer('checked24_2017')->default(0);
+            $table->integer('checked25_2017')->default(0);
+            $table->integer('checked26_2017')->default(0);
+            $table->integer('checked27_2017')->default(0);
+            $table->integer('checked28_2017')->default(0);
+            $table->integer('checked29_2017')->default(0);
+            $table->integer('checked30_2017')->default(0);
+            $table->integer('checked31_2017')->default(0);
+            $table->integer('checked32_2017')->default(0);
+            $table->integer('checked33_2017')->default(0);
+            $table->integer('checked34_2017')->default(0);
+            $table->integer('checked35_2017')->default(0);
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists('quantitative_sources');
+    }
+}
